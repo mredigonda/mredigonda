@@ -8,9 +8,9 @@ Later on, for my Software Engineering roles, I applied not only my data structur
 
 ## 👷🏽 Work Experience
 
-- **Nov 2020 - Feb 2022**: Software Engineer I at [Ergeon](https://www.ergeon.com/) working on 3D [fencequoting tool](https://fencequoting.com/) to display accurate representation of a plethora of different fence designs.
-- **Dec 2019 - Mar 2020**: Software Engineer Intern at [VTEX](https://vtex.com/us-en/) working on [Place Components](https://github.com/vtex-apps/place-components) to support +25 countries.
-- **Always**: Core contributor at [OpenSupports](https://www.opensupports.com/), our beloved open source ticket system, worked on the system end-to-end and on the SaaS system behind the [cloud hosted offering](opensupports.com/pricing).
+- **Nov 2020 - Feb 2022**: Software Engineer I at [Ergeon](https://www.ergeon.com/) worked on 3D [fencequoting tool](https://fencequoting.com/) to display accurate representation of a plethora of different fence designs.
+- **Dec 2019 - Mar 2020**: Software Engineer Intern at [VTEX](https://vtex.com/us-en/) worked on [Place Components](https://github.com/vtex-apps/place-components) to support +25 countries.
+- **Always**: Core contributor at [OpenSupports](https://www.opensupports.com/), our beloved open source ticket system, working on the system end-to-end and on the SaaS system behind the [cloud hosted offering](opensupports.com/pricing).
 
 ## 🏆 Programming Competitions
 
