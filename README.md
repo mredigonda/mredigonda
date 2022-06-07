@@ -1,16 +1,24 @@
-### Hi there 👋
+## 👋🏽 About me
 
-<!--
-**mredigonda/mredigonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Maxi Redigonda, I study Computer Science in 🇦🇷 Argentina.
 
-Here are some ideas to get you started:
+During my highschool and early university years I was deeply involved in **programming competitions**, reaching the final instances of the [ICPC](https://icpc.global/) and the [IOI](https://ioinformatics.org/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Later on, for my Software Engineering roles, I applied not only my data structures, algorithms, and problem solving skills, but also the team-working and rapid-learning abilities that those competitions help to grow.
+
+## 👷🏽 Work Experience
+
+- **Nov 2020 - Feb 2022**: Software Engineer I at [Ergeon](https://www.ergeon.com/) working on 3D [fencequoting tool](https://fencequoting.com/) to display accurate representation of a plethora of different fence designs.
+- **Dec 2019 - Mar 2020**: Software Engineer Intern at [VTEX](https://vtex.com/us-en/) working on [Place Components](https://github.com/vtex-apps/place-components) to support +25 countries.
+- **Always**: Core contributor at [OpenSupports](https://www.opensupports.com/), our beloved open source ticket system, worked on the system end-to-end and on the SaaS system behind the [cloud hosted offering](opensupports.com/pricing).
+
+## 🏆 Programming Competitions
+
+- 2017 **ICPC World Finals** in Rapid City, 🇺🇸 USA (**Honorable Mention**)
+- 2019 **ICPC World Finals** in Porto, 🇵🇹 Portugal (**62th** out of >50.000 competitors)
+- 2016 **International Olympiad in Informatics** (IOI) in Kazan, 🇷🇺 Russia
+- 2015 **International Olympiad in Informatics** (IOI) in Almaty, 🇰🇿 Kazakhstan
+
+## 📭 Contact me
+
+maxiredigonda@gmail.com
