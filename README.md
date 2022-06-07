@@ -6,6 +6,8 @@ During my highschool and early university years I was deeply involved in **progr
 
 Later on, for my Software Engineering roles, I applied not only my data structures, algorithms, and problem solving skills, but also the team-working and rapid-learning abilities that those competitions help to grow.
 
+Check out more in [my blog](https://mredigonda.github.io/).
+
 ## 👷🏽 Work Experience
 
 - **Nov 2020 - Feb 2022**: Software Engineer I at [Ergeon](https://www.ergeon.com/) worked on 3D [fencequoting tool](https://fencequoting.com/) to display accurate representation of a plethora of different fence designs.
