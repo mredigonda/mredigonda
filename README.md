@@ -14,8 +14,8 @@ Later on, for my Software Engineering roles, I applied not only my data structur
 
 ## 🏆 Programming Competitions
 
-- 2017 **ICPC World Finals** in Rapid City, 🇺🇸 USA (**Honorable Mention**)
 - 2019 **ICPC World Finals** in Porto, 🇵🇹 Portugal (**62th** out of >50.000 competitors)
+- 2017 **ICPC World Finals** in Rapid City, 🇺🇸 USA (**Honorable Mention**)
 - 2016 **International Olympiad in Informatics** (IOI) in Kazan, 🇷🇺 Russia
 - 2015 **International Olympiad in Informatics** (IOI) in Almaty, 🇰🇿 Kazakhstan
 
