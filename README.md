@@ -1,4 +1,4 @@
-## 👋🏽 About me
+## 👋🏽 About Me
 
 I am Maxi Redigonda, I study Computer Science in 🇦🇷 Argentina.
 
