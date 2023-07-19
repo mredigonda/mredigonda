@@ -16,7 +16,7 @@ Check out more in [my blog](https://mredigonda.github.io/).
 
 ## 🏆 Programming Competitions
 
-![Badge](https://cp-logo.vercel.app/codeforces/mredigonda)
+<!-- ![Badge](https://cp-logo.vercel.app/codeforces/mredigonda) -->
 
 - Codeforces: [mredigonda](https://codeforces.com/profile/mredigonda)
 - 2019 **ICPC World Finals** in Porto, 🇵🇹 Portugal (**62th** out of >50.000 competitors)
